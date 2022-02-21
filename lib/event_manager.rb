@@ -106,4 +106,5 @@ end
 
 hour_count_report(find_counts(hours))
 day_count_report(find_counts(days))
+
 puts "EventManager complete."
